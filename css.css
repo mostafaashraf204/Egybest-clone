@@ -1,0 +1,408 @@
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #F4F6F6;
+    }
+    
+    nav {
+        background-color: #F8F9F9;
+        overflow: hidden;
+        top: 0;
+        width: 100%;
+        height: 7%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 9999;
+        background-color: #ffffff;
+    }
+    
+    nav ul li {
+        display: inline-block;
+    }
+    
+    #egy_best_logo {
+        width: 100%;
+        height: 70%;
+        padding-left: 1030%;
+        padding-top: 2%;
+    }
+    
+    input {
+        width: 1000px;
+        height: 30px;
+        position: absolute;
+        left: 350px;
+        top: 15px;
+        font-size: large;
+        color: rgb(136, 136, 136);
+    }
+    
+    button {
+        width: 150px;
+        height: 40px;
+        position: absolute;
+        background-color: white;
+        color: red;
+        border: none;
+        border-radius: 7px;
+        padding: 15px;
+        min-height: 30px;
+        min-width: 120px;
+        font-size: 18px;
+    }
+    
+    button:hover {
+        background-color: #F44336;
+        transition: 0.1s;
+        color: white;
+    }
+    
+    a {
+        color: #42A5F5;
+        text-decoration: none;
+    }
+    
+    .div_button_media {
+        padding-top: 0.5%;
+    }
+    
+    #button_flims1 {
+        left: 450px;
+        top: 10%;
+    }
+    
+    #button_flims2 {
+        left: 290px;
+        top: 10%;
+    }
+    
+    #button_flims3 {
+        left: 450px;
+        top: 15%;
+    }
+    
+    #button_flims4 {
+        left: 290px;
+        top: 15%;
+    }
+    
+    #button_flims5 {
+        left: 450px;
+        top: 20%;
+    }
+    
+    #button_flims6 {
+        left: 290px;
+        top: 20%;
+    }
+    
+    #button_flims7 {
+        left: 450px;
+        top: 25%;
+    }
+    
+    #button_flims8 {
+        left: 290px;
+        top: 25%;
+    }
+    
+    #button_flims9 {
+        left: 450px;
+        top: 30%;
+    }
+    
+    #button_flims10 {
+        left: 290px;
+        top: 30%;
+    }
+    
+    #button_flims11 {
+        left: 450px;
+        top: 35%;
+    }
+    
+    #button_flims12 {
+        left: 290px;
+        top: 35%;
+    }
+    
+    #button_flims13 {
+        left: 450px;
+        top: 40%;
+    }
+    
+    #button_flims14 {
+        left: 290px;
+        top: 40%;
+    }
+    
+    #button_flims15 {
+        left: 450px;
+        top: 45%;
+    }
+    
+    #button_flims16 {
+        left: 290px;
+        top: 45%;
+    }
+    
+    #button_flims17 {
+        left: 450px;
+        top: 50%;
+    }
+    
+    #button_flims18 {
+        left: 290px;
+        top: 50%;
+    }
+    
+    #button_flims19 {
+        left: 450px;
+        top: 55%;
+    }
+    
+    #button_flims20 {
+        left: 290px;
+        top: 55%;
+    }
+    
+    #button_flims21 {
+        left: 450px;
+        top: 60%;
+    }
+    
+    #button_flims22 {
+        left: 290px;
+        top: 60%;
+    }
+    
+    #button_flims23 {
+        left: 450px;
+        top: 65%;
+    }
+    
+    #button_flims24 {
+        left: 290px;
+        top: 65%;
+    }
+    
+    #button_flims25 {
+        left: 450px;
+        top: 70%;
+    }
+    
+    #button_flims26 {
+        left: 290px;
+        top: 70%;
+    }
+    
+    #button_flims27 {
+        left: 450px;
+        top: 75%;
+    }
+    
+    #button_flims28 {
+        left: 290px;
+        top: 75%;
+    }
+    
+    #button_flims29 {
+        left: 450px;
+        top: 80%;
+    }
+    
+    #button_flims30 {
+        left: 290px;
+        top: 80%;
+    }
+    
+    #button_flims31 {
+        left: 450px;
+        top: 85%;
+    }
+    
+    #button_flims32 {
+        left: 290px;
+        top: 85%;
+    }
+    
+    #button_flims33 {
+        left: 450px;
+        top: 90%;
+    }
+    
+    #button_flims34 {
+        left: 290px;
+        top: 90%;
+    }
+    
+    #button_flims35 {
+        left: 450px;
+        top: 95%;
+    }
+    
+    #button_flims36 {
+        left: 290px;
+        top: 95%;
+    }
+    
+    #button_flims37 {
+        left: 450px;
+        top: 100%;
+    }
+    
+    #button_flims38 {
+        left: 290px;
+        top: 100%;
+    }
+    
+    table,
+    th,
+    td {
+        border: 1px solid rgb(255, 255, 255);
+        border-collapse: collapse;
+        margin-left: 78%;
+        width: 170px;
+        height: 30px;
+        text-align: right;
+        color: #42A5F5;
+        border-collapse: collapse;
+        font-family: sans-serif;
+        box-shadow: 0 0 20px rgb(255, 255, 255);
+        padding: 10px;
+    }
+    
+    .div_table_links_egybest {
+        padding-top: 4%;
+    }
+    
+    img {
+        width: 20px;
+        height: 20px;
+    }
+    
+    section {
+        margin: 1px 0px;
+        margin-left: 10%;
+        margin-top: -14%;
+    }
+    
+    .section1 {
+        margin: 1px 10px;
+        margin-left: 10%;
+        margin-top: 1%;
+    }
+    
+    .section2 {
+        margin: 1px 10px;
+        margin-left: 10%;
+        margin-top: 1%;
+    }
+    
+    .section3 {
+        margin: 1px 10px;
+        margin-left: 10%;
+        margin-top: 1%;
+    }
+    
+    .section4 {
+        margin: 1px 10px;
+        margin-left: 10%;
+        margin-top: 1%;
+    }
+    
+    .new_movie {
+        margin-left: 72%;
+        margin-top: -1%;
+        font-size: 24px;
+    }
+    
+    .new_movie1 {
+        margin-left: 70.5%;
+        margin-top: 1%;
+        font-size: 24px;
+    }
+    
+    .new_movie2 {
+        margin-left: 70.5%;
+        margin-top: 1%;
+        font-size: 24px;
+    }
+    
+    .new_movie3 {
+        margin-left: 72%;
+        margin-top: 1%;
+        font-size: 24px;
+    }
+    
+    #a_link_elmazyd {
+        font-size: large;
+        margin-left: 1%;
+        color: rgb(0, 132, 255);
+    }
+    
+    .movie-slide {
+        background: #fff;
+        color: #000;
+        margin: auto;
+        max-width: 850px;
+        overflow: scroll hidden;
+        padding: -4px 30px;
+    }
+    
+    .movie-slide:hover {
+        transition: 1s ease-out;
+        box-shadow: rgba(0, 0, 0, 0.6) 0px 3px 15px;
+    }
+    
+    .container-title {
+        display: flex;
+        border-right: 200px;
+        width: 200px;
+        margin-left: 720px;
+        font-size: 20px;
+    }
+    
+    .movie-box {
+        display: flex;
+        padding: 1px 10px;
+    }
+    
+    .movie-info {
+        margin: 20px 90px 1px 0px;
+        width: 80px;
+    }
+    
+    .movie-info img {
+        background: center center/cover no-repeat #ddd;
+        height: 200px;
+        object-fit: cover;
+        width: 150px;
+    }
+    
+    .movie-name {
+        cursor: pointer;
+        padding: 12px 20px;
+        width: 200px;
+        font-size: 13px;
+        font-display: center;
+        font-weight: bold;
+    }
+    
+    .movie-slide1 {
+        background: #fff;
+        color: #000;
+        margin-left: -100%;
+        max-width: 850px;
+        overflow: scroll hidden;
+        padding: 1px 40px;
+    }
+    /*secand page*/
+    
+    .img_secand_page_poster {
+        width: 15.5%;
+        height: 10%;
+        margin-left: 61.5%;
+        margin-top: -13.5%;
+    }

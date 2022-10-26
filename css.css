@@ -257,9 +257,11 @@
         top: 100%;
     }
     
-    table,
-    th,
-    td {
+    .div_table_links_egybest {
+        padding-top: 4%;
+    }
+    
+    .table_home_page_style {
         border: 1px solid rgb(255, 255, 255);
         border-collapse: collapse;
         margin-left: 78%;
@@ -271,10 +273,6 @@
         font-family: sans-serif;
         box-shadow: 0 0 20px rgb(255, 255, 255);
         padding: 10px;
-    }
-    
-    .div_table_links_egybest {
-        padding-top: 4%;
     }
     
     img {
@@ -412,74 +410,58 @@
         margin-top: -24%;
     }
     
-    .styled-table-movie-page {
+    .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
         font-size: 1em;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: sans-serif;
         min-width: 520px;
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-        border: 1px solid#000;
+        border: 1px rgb(143, 142, 142);
     }
     
-    .thead_tr_th {
-        background-color: #ffffff;
-        color: #ffffff;
+    .styled-table th {
+        padding: 12px 10px;
+        border: 1px solid rgb(190, 190, 190);
         text-align: right;
-        font-weight: bolder;
-        font-size: larger;
     }
     
-    .td_pading_detalis {
-        padding: 12px 150px;
+    .styled-table-td {
+        padding: 12px 10px;
+        border: 1px solid rgb(190, 190, 190);
         text-align: right;
-        color: rgb(214, 206, 206);
     }
     
-    .tr_table_movie {
-        background-color: #ffffff;
-        color: #ffffff;
-        text-align: right;
-        font-weight: bolder;
-        font-size: larger;
+    .styled-table tbody tr {
+        border-bottom: 0.5px solid rgb(190, 190, 190);
     }
     
-    .td_table_font_color_size {
-        color: #000;
-        font-size: larger;
+    .styled-table tbody tr.active-row {
         font-weight: bold;
+        color: #000000;
+    }
+    
+    .td_font_size_color {
+        font-size: larger;
         text-align: center;
+        color: rgb(148, 148, 148);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
     
-    #td_table_font_color_size_frist {
-        color: rgb(110, 170, 253);
-        font-size: 1.1em;
-        font-weight: bold;
-        text-align: right;
-    }
-    
-    .td_table_font_color_size_secand {
-        color: #000;
-        font-size: medium;
-        text-align: right;
-    }
-    
-    .head_table {
-        color: #000;
+    .black_adam_font_size {
         font-size: x-large;
-        font-weight: bold;
-        text-align: right;
     }
     
     .button_movie_page {
         background-color: #4dca51;
         color: white;
-        padding: 20px 148px;
+        padding: 12px 150px 30px 150px;
         text-align: left;
-        font-size: 16px;
+        font-size: 20px;
+        font-weight: bold;
         margin: 4px 2px;
         margin-left: 61.5%;
-        margin-top: -10.7%;
+        margin-top: -6%;
     }
     
     #button_change_color {
@@ -496,4 +478,65 @@
         background-color: #ffffff;
         transition: 0.3s;
         color: rgb(93, 177, 255);
+    }
+    
+    #detalis_color {
+        color: #42A5F5;
+    }
+    
+    #detalis_color_size {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 500;
+    }
+    
+    .div_Follower_Rating {
+        background-color: rgb(255, 255, 255);
+        width: 840px;
+        border: 2px solid rgb(223, 223, 223);
+        padding: 3px;
+        margin: 20px;
+        margin-left: 33%;
+    }
+    
+    .div_div_Follower_Rating {
+        background-color: rgb(255, 255, 255);
+        width: 825px;
+        border: 1px;
+        padding: 10px;
+        margin: 20px;
+        margin-left: -0.3%;
+        margin-top: -0.4%;
+        text-align: right;
+        font-size: 23px;
+        color: rgb(0, 0, 0);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: rgb(245, 244, 244);
+    }
+    
+    .like_img_in_div_Follower_Rating {
+        margin-left: 28%;
+        margin-top: 1%;
+        width: 45px;
+        height: 50px;
+    }
+    
+    .dislike_img_in_div_Follower_Rating {
+        margin-left: -19%;
+        margin-top: 1%;
+        width: 34px;
+        height: 39px;
+    }
+    
+    .p_in_div_in_follower_rating {
+        margin-left: 40%;
+        margin-top: -3.8%;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    
+    .prict_in_div_in_follower_rating {
+        margin-left: 80%;
+        margin-top: -5%;
+        width: 60px;
+        height: 55px;
     }

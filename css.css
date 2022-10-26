@@ -67,192 +67,192 @@
         padding-top: 0.5%;
     }
     
-    #button_flims1 {
+    .button_flims1 {
         left: 450px;
         top: 10%;
     }
     
-    #button_flims2 {
+    .button_flims2 {
         left: 290px;
         top: 10%;
     }
     
-    #button_flims3 {
+    .button_flims3 {
         left: 450px;
         top: 15%;
     }
     
-    #button_flims4 {
+    .button_flims4 {
         left: 290px;
         top: 15%;
     }
     
-    #button_flims5 {
+    .button_flims5 {
         left: 450px;
         top: 20%;
     }
     
-    #button_flims6 {
+    .button_flims6 {
         left: 290px;
         top: 20%;
     }
     
-    #button_flims7 {
+    .button_flims7 {
         left: 450px;
         top: 25%;
     }
     
-    #button_flims8 {
+    .button_flims8 {
         left: 290px;
         top: 25%;
     }
     
-    #button_flims9 {
+    .button_flims9 {
         left: 450px;
         top: 30%;
     }
     
-    #button_flims10 {
+    .button_flims10 {
         left: 290px;
         top: 30%;
     }
     
-    #button_flims11 {
+    .button_flims11 {
         left: 450px;
         top: 35%;
     }
     
-    #button_flims12 {
+    .button_flims12 {
         left: 290px;
         top: 35%;
     }
     
-    #button_flims13 {
+    .button_flims13 {
         left: 450px;
         top: 40%;
     }
     
-    #button_flims14 {
+    .button_flims14 {
         left: 290px;
         top: 40%;
     }
     
-    #button_flims15 {
+    .button_flims15 {
         left: 450px;
         top: 45%;
     }
     
-    #button_flims16 {
+    .button_flims16 {
         left: 290px;
         top: 45%;
     }
     
-    #button_flims17 {
+    .button_flims17 {
         left: 450px;
         top: 50%;
     }
     
-    #button_flims18 {
+    .button_flims18 {
         left: 290px;
         top: 50%;
     }
     
-    #button_flims19 {
+    .button_flims19 {
         left: 450px;
         top: 55%;
     }
     
-    #button_flims20 {
+    .button_flims20 {
         left: 290px;
         top: 55%;
     }
     
-    #button_flims21 {
+    .button_flims21 {
         left: 450px;
         top: 60%;
     }
     
-    #button_flims22 {
+    .button_flims22 {
         left: 290px;
         top: 60%;
     }
     
-    #button_flims23 {
+    .button_flims23 {
         left: 450px;
         top: 65%;
     }
     
-    #button_flims24 {
+    .button_flims24 {
         left: 290px;
         top: 65%;
     }
     
-    #button_flims25 {
+    .button_flims25 {
         left: 450px;
         top: 70%;
     }
     
-    #button_flims26 {
+    .button_flims26 {
         left: 290px;
         top: 70%;
     }
     
-    #button_flims27 {
+    .button_flims27 {
         left: 450px;
         top: 75%;
     }
     
-    #button_flims28 {
+    .button_flims28 {
         left: 290px;
         top: 75%;
     }
     
-    #button_flims29 {
+    .button_flims29 {
         left: 450px;
         top: 80%;
     }
     
-    #button_flims30 {
+    .button_flims30 {
         left: 290px;
         top: 80%;
     }
     
-    #button_flims31 {
+    .button_flims31 {
         left: 450px;
         top: 85%;
     }
     
-    #button_flims32 {
+    .button_flims32 {
         left: 290px;
         top: 85%;
     }
     
-    #button_flims33 {
+    .button_flims33 {
         left: 450px;
         top: 90%;
     }
     
-    #button_flims34 {
+    .button_flims34 {
         left: 290px;
         top: 90%;
     }
     
-    #button_flims35 {
+    .button_flims35 {
         left: 450px;
         top: 95%;
     }
     
-    #button_flims36 {
+    .button_flims36 {
         left: 290px;
         top: 95%;
     }
     
-    #button_flims37 {
+    .button_flims37 {
         left: 450px;
         top: 100%;
     }
     
-    #button_flims38 {
+    .button_flims38 {
         left: 290px;
         top: 100%;
     }
@@ -469,4 +469,15 @@
         font-size: x-large;
         font-weight: bold;
         text-align: right;
+    }
+    
+    .button_movie_page {
+        background-color: #4dca51;
+        color: white;
+        padding: 20px 148px;
+        text-align: left;
+        font-size: 16px;
+        margin: 4px 2px;
+        margin-left: 61.5%;
+        margin-top: -10.7%;
     }

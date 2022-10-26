@@ -481,3 +481,19 @@
         margin-left: 61.5%;
         margin-top: -10.7%;
     }
+    
+    #button_change_color {
+        width: 150px;
+        height: 40px;
+        position: absolute;
+        background-color: white;
+        border: none;
+        border-radius: 7px;
+        padding: 15px;
+        min-height: 30px;
+        min-width: 120px;
+        font-size: 18px;
+        background-color: #ffffff;
+        transition: 0.3s;
+        color: rgb(93, 177, 255);
+    }

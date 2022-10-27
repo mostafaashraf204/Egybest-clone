@@ -399,15 +399,15 @@
     /*secand page*/
     
     .img_secand_page_poster {
-        width: 15.5%;
+        width: 14%;
         height: 10%;
         margin-left: 61.5%;
-        margin-top: -13.5%;
+        margin-top: -12%;
     }
     
     .div_postion_table_movie {
         margin-left: 33%;
-        margin-top: -24%;
+        margin-top: -22%;
     }
     
     .styled-table {
@@ -455,13 +455,13 @@
     .button_movie_page {
         background-color: #4dca51;
         color: white;
-        padding: 12px 150px 30px 150px;
+        padding: 9px 140px 10px 130px;
         text-align: left;
         font-size: 20px;
         font-weight: bold;
         margin: 4px 2px;
         margin-left: 61.5%;
-        margin-top: -6%;
+        margin-top: -11%;
     }
     
     #button_change_color {
@@ -552,7 +552,7 @@
     
     .div_div_story_movie {
         background-color: rgb(255, 255, 255);
-        width: 825px;
+        width: 835px;
         border: 1px;
         padding: 10px;
         margin: 20px;
@@ -600,7 +600,7 @@
     
     .div_div_download_links_table {
         background-color: rgb(255, 255, 255);
-        width: 825px;
+        width: 835px;
         border: 1px;
         padding: 10px;
         margin: 20px;
@@ -628,4 +628,38 @@
     
     #th_table_down_load_links_for_page_movie {
         background-color: rgb(228, 228, 228);
+    }
+    
+    .div_for_actor_movie {
+        background-color: rgb(255, 255, 255);
+        width: 840px;
+        border: 2px solid rgb(223, 223, 223);
+        padding: 3px;
+        margin: 20px;
+        margin-left: 33%;
+    }
+    
+    .img_for_radies_for_actors {
+        border-radius: 50%;
+        width: 80px;
+        height: 70px;
+    }
+    
+    .div_for_img_pragragh_for_actors {
+        margin-left: 720px;
+    }
+    
+    .div_for_img_pragragh_for_actors_left {
+        margin-left: 540px;
+        margin-top: -109px;
+    }
+    
+    .div_for_img_pragragh_for_actors_top {
+        margin-left: 340px;
+        margin-top: -109px;
+    }
+    
+    .div_for_img_pragragh_for_actors_down {
+        margin-left: 140px;
+        margin-top: -109px;
     }

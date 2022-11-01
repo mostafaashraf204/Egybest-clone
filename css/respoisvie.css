@@ -1,0 +1,655 @@
+@media screen and (min-width:401px) and (max-width:786px) {
+    nav {
+        width: 100%;
+    }
+    #egy_best_logo {
+        padding-left: 460%;
+        padding-top: 2%;
+    }
+    input {
+        width: 76%;
+        margin-left: -43%;
+    }
+    .button_flims1 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims2 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims3 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims4 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims5 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims6 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims7 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims8 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims9 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims10 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims11 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims12 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims13 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims14 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims15 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims16 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims17 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims18 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims19 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims20 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims21 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims22 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims23 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims24 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims25 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims26 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims27 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims28 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims29 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims30 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims31 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims32 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims33 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims34 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims35 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims36 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .button_flims37 {
+        margin-left: -40%;
+        width: 1%;
+    }
+    .button_flims38 {
+        margin-left: -36%;
+        width: 1%;
+    }
+    .table_home_page_style {
+        width: 15%;
+        height: 12%;
+        margin-left: 85%;
+        margin-top: 5%;
+    }
+    section {
+        width: 50%;
+        margin-top: -30%;
+        margin-left: 34%;
+    }
+    .new_movie {
+        margin-left: 85%;
+    }
+    .section1 {
+        width: 59%;
+        margin-left: 34%;
+    }
+    .new_movie1 {
+        margin-left: 83%;
+    }
+    .section2 {
+        width: 59%;
+        margin-left: 34%;
+    }
+    .new_movie2 {
+        margin-left: 83%;
+    }
+    .section3 {
+        width: 59%;
+        margin-left: 34%;
+    }
+    .new_movie3 {
+        margin-left: 83%;
+    }
+    .section4 {
+        width: 59%;
+        margin-left: 34%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    nav {
+        width: 100%;
+    }
+    #egy_best_logo {
+        width: 90%;
+        padding-left: 190%;
+        padding-top: 2%;
+    }
+    input {
+        width: 56%;
+        margin-left: -78%;
+    }
+    .button_flims1 {
+        margin-left: -59%;
+        margin-top: 470%;
+        width: 160px;
+    }
+    .button_flims2 {
+        margin-left: -65%;
+        margin-top: 470%;
+        width: 160px;
+    }
+    .button_flims3 {
+        margin-left: -59%;
+        margin-top: 472%;
+        width: 160px;
+    }
+    .button_flims4 {
+        margin-left: -65%;
+        margin-top: 472%;
+        width: 160px;
+    }
+    .button_flims5 {
+        margin-left: -59%;
+        margin-top: 474%;
+        width: 160px;
+    }
+    .button_flims6 {
+        margin-left: -65%;
+        margin-top: 474%;
+        width: 160px;
+    }
+    .button_flims7 {
+        margin-left: -59%;
+        margin-top: 476%;
+        width: 160px;
+    }
+    .button_flims8 {
+        margin-left: -65%;
+        margin-top: 476%;
+        width: 160px;
+    }
+    .button_flims9 {
+        margin-left: -59%;
+        margin-top: 478%;
+        width: 160px;
+    }
+    .button_flims10 {
+        margin-left: -65%;
+        margin-top: 478%;
+        width: 160px;
+    }
+    .button_flims11 {
+        margin-left: -59%;
+        margin-top: 480%;
+        width: 160px;
+    }
+    .button_flims12 {
+        margin-left: -65%;
+        margin-top: 480%;
+        width: 160px;
+    }
+    .button_flims12 {
+        margin-left: -65%;
+        margin-top: 482%;
+        width: 160px;
+    }
+    .button_flims13 {
+        margin-left: -59%;
+        margin-top: 482%;
+        width: 160px;
+    }
+    .button_flims14 {
+        margin-left: -65%;
+        margin-top: 484%;
+        width: 160px;
+    }
+    .button_flims15 {
+        margin-left: -59%;
+        margin-top: 484%;
+        width: 160px;
+    }
+    .button_flims16 {
+        margin-left: -65%;
+        margin-top: 486%;
+        width: 160px;
+    }
+    .button_flims17 {
+        margin-left: -59%;
+        margin-top: 486%;
+        width: 160px;
+    }
+    .button_flims18 {
+        margin-left: -65%;
+        margin-top: 488%;
+        width: 160px;
+    }
+    .button_flims19 {
+        margin-left: -59%;
+        margin-top: 488%;
+        width: 160px;
+    }
+    .button_flims20 {
+        margin-left: -65%;
+        margin-top: 490%;
+        width: 160px;
+    }
+    .button_flims21 {
+        margin-left: -59%;
+        margin-top: 490%;
+        width: 160px;
+    }
+    .button_flims22 {
+        margin-left: -65%;
+        margin-top: 492%;
+        width: 160px;
+    }
+    .button_flims23 {
+        margin-left: -59%;
+        margin-top: 492%;
+        width: 160px;
+    }
+    .button_flims24 {
+        margin-left: -65%;
+        margin-top: 494%;
+        width: 160px;
+    }
+    .button_flims25 {
+        margin-left: -59%;
+        margin-top: 494%;
+        width: 160px;
+    }
+    .button_flims26 {
+        margin-left: -65%;
+        margin-top: 495%;
+        width: 160px;
+    }
+    .button_flims27 {
+        margin-left: -59%;
+        margin-top: 488%;
+        width: 160px;
+    }
+    .button_flims28 {
+        margin-left: -65%;
+        margin-top: 488%;
+        width: 160px;
+    }
+    .button_flims29 {
+        margin-left: -59%;
+        margin-top: 490%;
+        width: 160px;
+    }
+    .button_flims30 {
+        margin-left: -65%;
+        margin-top: 490%;
+        width: 160px;
+    }
+    .button_flims31 {
+        margin-left: -59%;
+        margin-top: 492%;
+        width: 160px;
+    }
+    .button_flims32 {
+        margin-left: -65%;
+        margin-top: 492%;
+        width: 160px;
+    }
+    .button_flims33 {
+        margin-left: -59%;
+        margin-top: 494%;
+        width: 160px;
+    }
+    .button_flims34 {
+        margin-left: -65%;
+        margin-top: 494%;
+        width: 160px;
+    }
+    .button_flims35 {
+        margin-left: -59%;
+        margin-top: 496%;
+        width: 160px;
+    }
+    .button_flims36 {
+        margin-left: -65%;
+        margin-top: 496%;
+        width: 160px;
+    }
+    .button_flims37 {
+        margin-left: -59%;
+        margin-top: 498%;
+        width: 160px;
+    }
+    .button_flims38 {
+        margin-left: -65%;
+        margin-top: 498%;
+        width: 160px;
+    }
+    .table_home_page_style {
+        width: 92%;
+        float: none;
+        margin-left: 6%;
+        margin-top: 50px;
+    }
+    section {
+        width: 96%;
+        margin-top: 7%;
+        margin-left: 1%;
+    }
+    .new_movie {
+        margin-left: 68%;
+        margin-top: 2%;
+    }
+    .section1 {
+        width: 96%;
+        margin-left: 1%;
+    }
+    .new_movie1 {
+        margin-left: 58%;
+        margin-top: 3%;
+    }
+    .section2 {
+        width: 96%;
+        margin-left: 1%;
+    }
+    .new_movie2 {
+        margin-left: 58%;
+        margin-top: 3%;
+    }
+    .section3 {
+        width: 96%;
+        margin-left: 1%;
+    }
+    .new_movie3 {
+        margin-left: 68%;
+        margin-top: 3%;
+    }
+    .section4 {
+        width: 96%;
+        margin-left: 1%;
+    }
+}
+
+@media only screen and (max-width:1600px) {
+    .table_home_page_style {
+        width: 15%;
+        float: none;
+        margin-left: 83%;
+        margin-top: 29px;
+    }
+    section {
+        width: 96%;
+        margin-top: -16%;
+        margin-left: 8%;
+    }
+    .new_movie {
+        margin-left: 77%;
+        margin-top: 1%;
+    }
+    .section1 {
+        width: 96%;
+        margin-left: 8%;
+    }
+    .new_movie1 {
+        margin-left: 75%;
+        margin-top: 1%;
+    }
+    .section2 {
+        width: 96%;
+        margin-left: 8%;
+    }
+    .new_movie2 {
+        margin-left: 75%;
+        margin-top: 1%;
+    }
+    .section3 {
+        width: 96%;
+        margin-left: 8%;
+    }
+    .new_movie3 {
+        margin-left: 76%;
+        margin-top: 1%;
+    }
+    .section4 {
+        width: 96%;
+        margin-left: 8%;
+    }
+    .button_flims1 {
+        left: 300px;
+        top: 10%;
+    }
+    .button_flims2 {
+        left: 140px;
+        top: 10%;
+    }
+    .button_flims3 {
+        left: 300px;
+        top: 15%;
+    }
+    .button_flims4 {
+        left: 140px;
+        top: 15%;
+    }
+    .button_flims5 {
+        left: 300px;
+        top: 20%;
+    }
+    .button_flims6 {
+        left: 140px;
+        top: 20%;
+    }
+    .button_flims7 {
+        left: 300px;
+        top: 25%;
+    }
+    .button_flims8 {
+        left: 140px;
+        top: 25%;
+    }
+    .button_flims9 {
+        left: 300px;
+        top: 30%;
+    }
+    .button_flims10 {
+        left: 140px;
+        top: 30%;
+    }
+    .button_flims11 {
+        left: 300px;
+        top: 35%;
+    }
+    .button_flims12 {
+        left: 140px;
+        top: 35%;
+    }
+    .button_flims13 {
+        left: 300px;
+        top: 40%;
+    }
+    .button_flims14 {
+        left: 140px;
+        top: 40%;
+    }
+    .button_flims15 {
+        left: 300px;
+        top: 45%;
+    }
+    .button_flims16 {
+        left: 140px;
+        top: 45%;
+    }
+    .button_flims17 {
+        left: 300px;
+        top: 50%;
+    }
+    .button_flims18 {
+        left: 140px;
+        top: 50%;
+    }
+    .button_flims19 {
+        left: 300px;
+        top: 55%;
+    }
+    .button_flims20 {
+        left: 140px;
+        top: 55%;
+    }
+    .button_flims21 {
+        left: 300px;
+        top: 60%;
+    }
+    .button_flims22 {
+        left: 140px;
+        top: 60%;
+    }
+    .button_flims23 {
+        left: 300px;
+        top: 70%;
+    }
+    .button_flims24 {
+        left: 140px;
+        top: 70%;
+    }
+    .button_flims25 {
+        left: 300px;
+        top: 65%;
+    }
+    .button_flims26 {
+        left: 140px;
+        top: 65%;
+    }
+    .button_flims27 {
+        left: 300px;
+        top: 75%;
+    }
+    .button_flims28 {
+        left: 140px;
+        top: 75%;
+    }
+    .button_flims29 {
+        left: 300px;
+        top: 80%;
+    }
+    .button_flims30 {
+        left: 140px;
+        top: 80%;
+    }
+    .button_flims31 {
+        left: 300px;
+        top: 85%;
+    }
+    .button_flims32 {
+        left: 140px;
+        top: 85%;
+    }
+    .button_flims33 {
+        left: 300px;
+        top: 90%;
+    }
+    .button_flims34 {
+        left: 140px;
+        top: 90%;
+    }
+    .button_flims35 {
+        left: 300px;
+        top: 95%;
+    }
+    .button_flims36 {
+        left: 140px;
+        top: 95%;
+    }
+    .button_flims37 {
+        left: 300px;
+        top: 100%;
+    }
+    .button_flims38 {
+        left: 140px;
+        top: 100%;
+    }
+}

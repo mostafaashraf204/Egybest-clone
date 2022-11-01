@@ -1,0 +1,1317 @@
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #F4F6F6;
+        }
+        
+        nav {
+            background-color: #F8F9F9;
+            overflow: hidden;
+            top: 0;
+            width: 100%;
+            height: 7%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 9999;
+            background-color: #ffffff;
+        }
+        
+        nav ul li {
+            display: inline-block;
+        }
+        
+        #egy_best_logo {
+            width: 100%;
+            height: 65%;
+            padding-left: 1030%;
+            padding-top: 2%;
+        }
+        
+        input {
+            width: 1000px;
+            height: 30px;
+            position: absolute;
+            left: 350px;
+            top: 15px;
+            font-size: large;
+            color: rgb(136, 136, 136);
+        }
+        
+        button {
+            width: 150px;
+            height: 40px;
+            position: absolute;
+            background-color: white;
+            color: red;
+            border: none;
+            border-radius: 7px;
+            padding: 15px;
+            min-height: 30px;
+            min-width: 120px;
+            font-size: 18px;
+        }
+        
+        button:hover {
+            background-color: #F44336;
+            transition: 0.1s;
+            color: white;
+        }
+        
+        a {
+            color: #42A5F5;
+            text-decoration: none;
+        }
+        
+        .button_flims1 {
+            left: 450px;
+            top: 10%;
+        }
+        
+        .button_flims2 {
+            left: 290px;
+            top: 10%;
+        }
+        
+        .button_flims3 {
+            left: 450px;
+            top: 15%;
+        }
+        
+        .button_flims4 {
+            left: 290px;
+            top: 15%;
+        }
+        
+        .button_flims5 {
+            left: 450px;
+            top: 20%;
+        }
+        
+        .button_flims6 {
+            left: 290px;
+            top: 20%;
+        }
+        
+        .button_flims7 {
+            left: 450px;
+            top: 25%;
+        }
+        
+        .button_flims8 {
+            left: 290px;
+            top: 25%;
+        }
+        
+        .button_flims9 {
+            left: 450px;
+            top: 30%;
+        }
+        
+        .button_flims10 {
+            left: 290px;
+            top: 30%;
+        }
+        
+        .button_flims11 {
+            left: 450px;
+            top: 35%;
+        }
+        
+        .button_flims12 {
+            left: 290px;
+            top: 35%;
+        }
+        
+        .button_flims13 {
+            left: 450px;
+            top: 40%;
+        }
+        
+        .button_flims14 {
+            left: 290px;
+            top: 40%;
+        }
+        
+        .button_flims15 {
+            left: 450px;
+            top: 45%;
+        }
+        
+        .button_flims16 {
+            left: 290px;
+            top: 45%;
+        }
+        
+        .button_flims17 {
+            left: 450px;
+            top: 50%;
+        }
+        
+        .button_flims18 {
+            left: 290px;
+            top: 50%;
+        }
+        
+        .button_flims19 {
+            left: 450px;
+            top: 55%;
+        }
+        
+        .button_flims20 {
+            left: 290px;
+            top: 55%;
+        }
+        
+        .button_flims21 {
+            left: 450px;
+            top: 60%;
+        }
+        
+        .button_flims22 {
+            left: 290px;
+            top: 60%;
+        }
+        
+        .button_flims23 {
+            left: 450px;
+            top: 59%;
+        }
+        
+        .button_flims24 {
+            left: 290px;
+            top: 59%;
+        }
+        
+        .button_flims25 {
+            left: 450px;
+            top: 65%;
+        }
+        
+        .button_flims26 {
+            left: 290px;
+            top: 65%;
+        }
+        
+        .button_flims27 {
+            left: 450px;
+            top: 75%;
+        }
+        
+        .button_flims28 {
+            left: 290px;
+            top: 75%;
+        }
+        
+        .button_flims29 {
+            left: 450px;
+            top: 80%;
+        }
+        
+        .button_flims30 {
+            left: 290px;
+            top: 80%;
+        }
+        
+        .button_flims31 {
+            left: 450px;
+            top: 85%;
+        }
+        
+        .button_flims32 {
+            left: 290px;
+            top: 85%;
+        }
+        
+        .button_flims33 {
+            left: 450px;
+            top: 90%;
+        }
+        
+        .button_flims34 {
+            left: 290px;
+            top: 90%;
+        }
+        
+        .button_flims35 {
+            left: 450px;
+            top: 95%;
+        }
+        
+        .button_flims36 {
+            left: 290px;
+            top: 95%;
+        }
+        
+        .button_flims37 {
+            left: 450px;
+            top: 100%;
+        }
+        
+        .button_flims38 {
+            left: 290px;
+            top: 100%;
+        }
+        
+        .div_table_links_egybest {
+            padding-top: 4%;
+        }
+        
+        .table_home_page_style {
+            border: 1px solid rgb(255, 255, 255);
+            border-collapse: collapse;
+            margin-left: 78%;
+            width: 170px;
+            height: 30px;
+            text-align: right;
+            color: #42A5F5;
+            border-collapse: collapse;
+            font-family: sans-serif;
+            box-shadow: 0 0 20px rgb(255, 255, 255);
+            padding: 10px;
+        }
+        
+        img {
+            width: 20px;
+            height: 20px;
+        }
+        
+        section {
+            margin: 1px 0px;
+            margin-left: 10%;
+            margin-top: -14%;
+        }
+        
+        .section1 {
+            margin: 1px 10px;
+            margin-left: 10%;
+            margin-top: 1%;
+        }
+        
+        .section2 {
+            margin: 1px 10px;
+            margin-left: 10%;
+            margin-top: 1%;
+        }
+        
+        .section3 {
+            margin: 1px 10px;
+            margin-left: 10%;
+            margin-top: 1%;
+        }
+        
+        .section4 {
+            margin: 1px 10px;
+            margin-left: 10%;
+            margin-top: 1%;
+        }
+        
+        .new_movie {
+            margin-left: 72%;
+            margin-top: -1%;
+            font-size: 24px;
+        }
+        
+        .new_movie1 {
+            margin-left: 65.5%;
+            margin-top: 1%;
+            font-size: 24px;
+        }
+        
+        .new_movie2 {
+            margin-left: 65.5%;
+            margin-top: 1%;
+            font-size: 24px;
+        }
+        
+        .new_movie3 {
+            margin-left: 72%;
+            margin-top: 1%;
+            font-size: 24px;
+        }
+        
+        #a_link_elmazyd {
+            font-size: large;
+            margin-left: 1%;
+            color: rgb(0, 132, 255);
+        }
+        
+        .movie-slide {
+            background: #fff;
+            color: #000;
+            margin: auto;
+            max-width: 850px;
+            overflow: scroll hidden;
+            padding: -4px 30px;
+        }
+        
+        .movie-slide:hover {
+            transition: 1s ease-out;
+            box-shadow: rgba(0, 0, 0, 0.6) 0px 3px 15px;
+        }
+        
+        .container-title {
+            display: flex;
+            border-right: 200px;
+            width: 200px;
+            margin-left: 720px;
+            font-size: 20px;
+        }
+        
+        .movie-box {
+            display: flex;
+            padding: 1px 10px;
+        }
+        
+        .movie-info {
+            margin: 20px 90px 1px 0px;
+            width: 80px;
+        }
+        
+        .movie-info img {
+            background: center center/cover no-repeat #ddd;
+            height: 200px;
+            object-fit: cover;
+            width: 150px;
+        }
+        
+        .movie-name {
+            cursor: pointer;
+            padding: 12px 20px;
+            width: 200px;
+            font-size: 13px;
+            font-display: center;
+            font-weight: bold;
+        }
+        
+        .movie-slide1 {
+            background: #fff;
+            color: #000;
+            margin-left: -100%;
+            max-width: 850px;
+            overflow: scroll hidden;
+            padding: 1px 40px;
+        }
+        
+        @media screen and (min-width:401px) and (max-width:786px) {
+            nav {
+                width: 100%;
+            }
+            #egy_best_logo {
+                padding-left: 460%;
+                padding-top: 2%;
+            }
+            input {
+                width: 76%;
+                margin-left: -43%;
+            }
+            .button_flims1 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims2 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims3 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims4 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims5 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims6 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims7 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims8 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims9 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims10 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims11 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims12 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims13 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims14 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims15 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims16 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims17 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims18 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims19 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims20 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims21 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims22 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims23 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims24 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims25 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims26 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims27 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims28 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims29 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims30 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims31 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims32 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims33 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims34 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims35 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims36 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .button_flims37 {
+                margin-left: -40%;
+                width: 1%;
+            }
+            .button_flims38 {
+                margin-left: -36%;
+                width: 1%;
+            }
+            .table_home_page_style {
+                width: 15%;
+                height: 12%;
+                margin-left: 85%;
+                margin-top: 5%;
+            }
+            section {
+                width: 50%;
+                margin-top: -30%;
+                margin-left: 34%;
+            }
+            .new_movie {
+                margin-left: 85%;
+            }
+            .section1 {
+                width: 59%;
+                margin-left: 34%;
+            }
+            .new_movie1 {
+                margin-left: 83%;
+            }
+            .section2 {
+                width: 59%;
+                margin-left: 34%;
+            }
+            .new_movie2 {
+                margin-left: 83%;
+            }
+            .section3 {
+                width: 59%;
+                margin-left: 34%;
+            }
+            .new_movie3 {
+                margin-left: 83%;
+            }
+            .section4 {
+                width: 59%;
+                margin-left: 34%;
+            }
+        }
+        
+        @media only screen and (max-width: 400px) {
+            nav {
+                width: 100%;
+            }
+            #egy_best_logo {
+                width: 90%;
+                padding-left: 190%;
+                padding-top: 2%;
+            }
+            input {
+                width: 56%;
+                margin-left: -78%;
+            }
+            .button_flims1 {
+                margin-left: -59%;
+                margin-top: 470%;
+                width: 160px;
+            }
+            .button_flims2 {
+                margin-left: -65%;
+                margin-top: 470%;
+                width: 160px;
+            }
+            .button_flims3 {
+                margin-left: -59%;
+                margin-top: 472%;
+                width: 160px;
+            }
+            .button_flims4 {
+                margin-left: -65%;
+                margin-top: 472%;
+                width: 160px;
+            }
+            .button_flims5 {
+                margin-left: -59%;
+                margin-top: 474%;
+                width: 160px;
+            }
+            .button_flims6 {
+                margin-left: -65%;
+                margin-top: 474%;
+                width: 160px;
+            }
+            .button_flims7 {
+                margin-left: -59%;
+                margin-top: 476%;
+                width: 160px;
+            }
+            .button_flims8 {
+                margin-left: -65%;
+                margin-top: 476%;
+                width: 160px;
+            }
+            .button_flims9 {
+                margin-left: -59%;
+                margin-top: 478%;
+                width: 160px;
+            }
+            .button_flims10 {
+                margin-left: -65%;
+                margin-top: 478%;
+                width: 160px;
+            }
+            .button_flims11 {
+                margin-left: -59%;
+                margin-top: 480%;
+                width: 160px;
+            }
+            .button_flims12 {
+                margin-left: -65%;
+                margin-top: 480%;
+                width: 160px;
+            }
+            .button_flims12 {
+                margin-left: -65%;
+                margin-top: 482%;
+                width: 160px;
+            }
+            .button_flims13 {
+                margin-left: -59%;
+                margin-top: 482%;
+                width: 160px;
+            }
+            .button_flims14 {
+                margin-left: -65%;
+                margin-top: 484%;
+                width: 160px;
+            }
+            .button_flims15 {
+                margin-left: -59%;
+                margin-top: 484%;
+                width: 160px;
+            }
+            .button_flims16 {
+                margin-left: -65%;
+                margin-top: 486%;
+                width: 160px;
+            }
+            .button_flims17 {
+                margin-left: -59%;
+                margin-top: 486%;
+                width: 160px;
+            }
+            .button_flims18 {
+                margin-left: -65%;
+                margin-top: 488%;
+                width: 160px;
+            }
+            .button_flims19 {
+                margin-left: -59%;
+                margin-top: 488%;
+                width: 160px;
+            }
+            .button_flims20 {
+                margin-left: -65%;
+                margin-top: 490%;
+                width: 160px;
+            }
+            .button_flims21 {
+                margin-left: -59%;
+                margin-top: 490%;
+                width: 160px;
+            }
+            .button_flims22 {
+                margin-left: -65%;
+                margin-top: 492%;
+                width: 160px;
+            }
+            .button_flims23 {
+                margin-left: -59%;
+                margin-top: 492%;
+                width: 160px;
+            }
+            .button_flims24 {
+                margin-left: -65%;
+                margin-top: 494%;
+                width: 160px;
+            }
+            .button_flims25 {
+                margin-left: -59%;
+                margin-top: 494%;
+                width: 160px;
+            }
+            .button_flims26 {
+                margin-left: -65%;
+                margin-top: 495%;
+                width: 160px;
+            }
+            .button_flims27 {
+                margin-left: -59%;
+                margin-top: 488%;
+                width: 160px;
+            }
+            .button_flims28 {
+                margin-left: -65%;
+                margin-top: 488%;
+                width: 160px;
+            }
+            .button_flims29 {
+                margin-left: -59%;
+                margin-top: 490%;
+                width: 160px;
+            }
+            .button_flims30 {
+                margin-left: -65%;
+                margin-top: 490%;
+                width: 160px;
+            }
+            .button_flims31 {
+                margin-left: -59%;
+                margin-top: 492%;
+                width: 160px;
+            }
+            .button_flims32 {
+                margin-left: -65%;
+                margin-top: 492%;
+                width: 160px;
+            }
+            .button_flims33 {
+                margin-left: -59%;
+                margin-top: 494%;
+                width: 160px;
+            }
+            .button_flims34 {
+                margin-left: -65%;
+                margin-top: 494%;
+                width: 160px;
+            }
+            .button_flims35 {
+                margin-left: -59%;
+                margin-top: 496%;
+                width: 160px;
+            }
+            .button_flims36 {
+                margin-left: -65%;
+                margin-top: 496%;
+                width: 160px;
+            }
+            .button_flims37 {
+                margin-left: -59%;
+                margin-top: 498%;
+                width: 160px;
+            }
+            .button_flims38 {
+                margin-left: -65%;
+                margin-top: 498%;
+                width: 160px;
+            }
+            .table_home_page_style {
+                width: 92%;
+                float: none;
+                margin-left: 6%;
+                margin-top: 50px;
+            }
+            section {
+                width: 96%;
+                margin-top: 7%;
+                margin-left: 1%;
+            }
+            .new_movie {
+                margin-left: 68%;
+                margin-top: 2%;
+            }
+            .section1 {
+                width: 96%;
+                margin-left: 1%;
+            }
+            .new_movie1 {
+                margin-left: 58%;
+                margin-top: 3%;
+            }
+            .section2 {
+                width: 96%;
+                margin-left: 1%;
+            }
+            .new_movie2 {
+                margin-left: 58%;
+                margin-top: 3%;
+            }
+            .section3 {
+                width: 96%;
+                margin-left: 1%;
+            }
+            .new_movie3 {
+                margin-left: 68%;
+                margin-top: 3%;
+            }
+            .section4 {
+                width: 96%;
+                margin-left: 1%;
+            }
+        }
+        
+        @media only screen and (max-width:1600px) {
+            .table_home_page_style {
+                width: 15%;
+                float: none;
+                margin-left: 83%;
+                margin-top: 29px;
+            }
+            section {
+                width: 96%;
+                margin-top: -16%;
+                margin-left: 8%;
+            }
+            .new_movie {
+                margin-left: 77%;
+                margin-top: 1%;
+            }
+            .section1 {
+                width: 96%;
+                margin-left: 8%;
+            }
+            .new_movie1 {
+                margin-left: 75%;
+                margin-top: 1%;
+            }
+            .section2 {
+                width: 96%;
+                margin-left: 8%;
+            }
+            .new_movie2 {
+                margin-left: 75%;
+                margin-top: 1%;
+            }
+            .section3 {
+                width: 96%;
+                margin-left: 8%;
+            }
+            .new_movie3 {
+                margin-left: 76%;
+                margin-top: 1%;
+            }
+            .section4 {
+                width: 96%;
+                margin-left: 8%;
+            }
+            .button_flims1 {
+                left: 300px;
+                top: 10%;
+            }
+            .button_flims2 {
+                left: 140px;
+                top: 10%;
+            }
+            .button_flims3 {
+                left: 300px;
+                top: 15%;
+            }
+            .button_flims4 {
+                left: 140px;
+                top: 15%;
+            }
+            .button_flims5 {
+                left: 300px;
+                top: 20%;
+            }
+            .button_flims6 {
+                left: 140px;
+                top: 20%;
+            }
+            .button_flims7 {
+                left: 300px;
+                top: 25%;
+            }
+            .button_flims8 {
+                left: 140px;
+                top: 25%;
+            }
+            .button_flims9 {
+                left: 300px;
+                top: 30%;
+            }
+            .button_flims10 {
+                left: 140px;
+                top: 30%;
+            }
+            .button_flims11 {
+                left: 300px;
+                top: 35%;
+            }
+            .button_flims12 {
+                left: 140px;
+                top: 35%;
+            }
+            .button_flims13 {
+                left: 300px;
+                top: 40%;
+            }
+            .button_flims14 {
+                left: 140px;
+                top: 40%;
+            }
+            .button_flims15 {
+                left: 300px;
+                top: 45%;
+            }
+            .button_flims16 {
+                left: 140px;
+                top: 45%;
+            }
+            .button_flims17 {
+                left: 300px;
+                top: 50%;
+            }
+            .button_flims18 {
+                left: 140px;
+                top: 50%;
+            }
+            .button_flims19 {
+                left: 300px;
+                top: 55%;
+            }
+            .button_flims20 {
+                left: 140px;
+                top: 55%;
+            }
+            .button_flims21 {
+                left: 300px;
+                top: 60%;
+            }
+            .button_flims22 {
+                left: 140px;
+                top: 60%;
+            }
+            .button_flims23 {
+                left: 300px;
+                top: 70%;
+            }
+            .button_flims24 {
+                left: 140px;
+                top: 70%;
+            }
+            .button_flims25 {
+                left: 300px;
+                top: 65%;
+            }
+            .button_flims26 {
+                left: 140px;
+                top: 65%;
+            }
+            .button_flims27 {
+                left: 300px;
+                top: 75%;
+            }
+            .button_flims28 {
+                left: 140px;
+                top: 75%;
+            }
+            .button_flims29 {
+                left: 300px;
+                top: 80%;
+            }
+            .button_flims30 {
+                left: 140px;
+                top: 80%;
+            }
+            .button_flims31 {
+                left: 300px;
+                top: 85%;
+            }
+            .button_flims32 {
+                left: 140px;
+                top: 85%;
+            }
+            .button_flims33 {
+                left: 300px;
+                top: 90%;
+            }
+            .button_flims34 {
+                left: 140px;
+                top: 90%;
+            }
+            .button_flims35 {
+                left: 300px;
+                top: 95%;
+            }
+            .button_flims36 {
+                left: 140px;
+                top: 95%;
+            }
+            .button_flims37 {
+                left: 300px;
+                top: 100%;
+            }
+            .button_flims38 {
+                left: 140px;
+                top: 100%;
+            }
+        }
+        /*secand page*/
+        
+        .img_secand_page_poster {
+            width: 14%;
+            height: 10%;
+            margin-left: 61.5%;
+            margin-top: -12%;
+        }
+        
+        .div_postion_table_movie {
+            margin-left: 33%;
+            margin-top: -22%;
+        }
+        
+        .styled-table {
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 1em;
+            font-family: sans-serif;
+            min-width: 520px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+            border: 1px rgb(143, 142, 142);
+        }
+        
+        .styled-table th {
+            padding: 12px 10px;
+            border: 1px solid rgb(190, 190, 190);
+            text-align: right;
+        }
+        
+        .styled-table-td {
+            padding: 12px 10px;
+            border: 1px solid rgb(190, 190, 190);
+            text-align: right;
+        }
+        
+        .styled-table tbody tr {
+            border-bottom: 0.5px solid rgb(190, 190, 190);
+        }
+        
+        .styled-table tbody tr.active-row {
+            font-weight: bold;
+            color: #000000;
+        }
+        
+        .td_font_size_color {
+            font-size: larger;
+            text-align: center;
+            color: rgb(148, 148, 148);
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        }
+        
+        .black_adam_font_size {
+            font-size: x-large;
+        }
+        
+        .button_movie_page {
+            background-color: #4dca51;
+            color: white;
+            padding: 9px 140px 10px 130px;
+            text-align: left;
+            font-size: 20px;
+            font-weight: bold;
+            margin: 4px 2px;
+            margin-left: 61.5%;
+            margin-top: -11%;
+        }
+        
+        #button_change_color {
+            width: 150px;
+            height: 40px;
+            position: absolute;
+            background-color: white;
+            border: none;
+            border-radius: 7px;
+            padding: 15px;
+            min-height: 30px;
+            min-width: 120px;
+            font-size: 18px;
+            background-color: #ffffff;
+            transition: 0.3s;
+            color: rgb(93, 177, 255);
+        }
+        
+        #detalis_color {
+            color: #42A5F5;
+        }
+        
+        #detalis_color_size {
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 500;
+        }
+        
+        .div_Follower_Rating {
+            background-color: rgb(255, 255, 255);
+            width: 840px;
+            border: 2px solid rgb(223, 223, 223);
+            padding: 3px;
+            margin: 20px;
+            margin-left: 33%;
+        }
+        
+        .div_div_Follower_Rating {
+            background-color: rgb(255, 255, 255);
+            width: 825px;
+            border: 1px;
+            padding: 10px;
+            margin: 20px;
+            margin-left: -0.3%;
+            margin-top: -0.4%;
+            text-align: right;
+            font-size: 23px;
+            color: rgb(0, 0, 0);
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            background-color: rgb(245, 244, 244);
+        }
+        
+        .like_img_in_div_Follower_Rating {
+            margin-left: 28%;
+            margin-top: 1%;
+            width: 45px;
+            height: 50px;
+        }
+        
+        .dislike_img_in_div_Follower_Rating {
+            margin-left: -19%;
+            margin-top: 1%;
+            width: 34px;
+            height: 39px;
+        }
+        
+        .p_in_div_in_follower_rating {
+            margin-left: 40%;
+            margin-top: -3.8%;
+            font-size: 17px;
+            font-weight: bold;
+        }
+        
+        .prict_in_div_in_follower_rating {
+            margin-left: 80%;
+            margin-top: -5%;
+            width: 60px;
+            height: 55px;
+        }
+        
+        .div_story_movie {
+            background-color: rgb(255, 255, 255);
+            width: 840px;
+            border: 2px solid rgb(223, 223, 223);
+            padding: 3px;
+            margin: 20px;
+            margin-left: 33%;
+        }
+        
+        .div_div_story_movie {
+            background-color: rgb(255, 255, 255);
+            width: 835px;
+            border: 1px;
+            padding: 10px;
+            margin: 20px;
+            margin-left: -0.3%;
+            margin-top: -0.4%;
+            text-align: right;
+            font-size: 23px;
+            color: rgb(0, 0, 0);
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            background-color: rgb(245, 244, 244);
+        }
+        
+        .div_trailer_movie_for_ifram {
+            background-color: rgb(255, 255, 255);
+            width: 840px;
+            border: 2px solid rgb(223, 223, 223);
+            padding: 3px;
+            margin: 20px;
+            margin-left: 33%;
+        }
+        
+        .div_div_watch_trailer_movie {
+            background-color: rgb(255, 255, 255);
+            width: 825px;
+            border: 1px;
+            padding: 10px;
+            margin: 20px;
+            margin-left: -0.3%;
+            margin-top: -0.4%;
+            text-align: right;
+            font-size: 23px;
+            color: rgb(0, 0, 0);
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            background-color: rgb(245, 244, 244);
+        }
+        
+        .div_for_download_links {
+            background-color: rgb(255, 255, 255);
+            width: 840px;
+            border: 2px solid rgb(223, 223, 223);
+            padding: 3px;
+            margin: 20px;
+            margin-left: 33%;
+        }
+        
+        .div_div_download_links_table {
+            background-color: rgb(255, 255, 255);
+            width: 835px;
+            border: 1px;
+            padding: 10px;
+            margin: 20px;
+            margin-left: -0.3%;
+            margin-top: -0.4%;
+            text-align: right;
+            font-size: 23px;
+            color: rgb(0, 0, 0);
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            background-color: rgb(245, 244, 244);
+        }
+        
+        .table_down_load_links_for_page_movie {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        .td_tr_th_table_down_load_links_for_page_movie {
+            border: 1px solid rgb(204, 204, 204);
+            text-align: center;
+            padding: 15px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bold;
+        }
+        
+        #th_table_down_load_links_for_page_movie {
+            background-color: rgb(228, 228, 228);
+        }
+        
+        .div_for_actor_movie {
+            background-color: rgb(255, 255, 255);
+            width: 840px;
+            border: 2px solid rgb(223, 223, 223);
+            padding: 3px;
+            margin: 20px;
+            margin-left: 33%;
+        }
+        
+        .img_for_radies_for_actors {
+            border-radius: 50%;
+            width: 80px;
+            height: 70px;
+        }
+        
+        .div_for_img_pragragh_for_actors {
+            margin-left: 720px;
+        }
+        
+        .div_for_img_pragragh_for_actors_left {
+            margin-left: 540px;
+            margin-top: -109px;
+        }
+        
+        .div_for_img_pragragh_for_actors_top {
+            margin-left: 340px;
+            margin-top: -109px;
+        }
+        
+        .div_for_img_pragragh_for_actors_down {
+            margin-left: 140px;
+            margin-top: -109px;
+        }

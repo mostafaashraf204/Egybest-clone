@@ -1,4 +1,4 @@
-@media screen and (min-width:401px) and (max-width:786px) {
+@media screen and (max-width:786px) {
     nav {
         width: 100%;
     }
@@ -209,7 +209,7 @@
     }
     #egy_best_logo {
         width: 90%;
-        padding-left: 190%;
+        padding-left: 184%;
         padding-top: 2%;
     }
     input {
@@ -412,13 +412,12 @@
         width: 160px;
     }
     .table_home_page_style {
-        width: 92%;
-        float: none;
+        visibility: hidden;
         margin-left: 6%;
-        margin-top: 50px;
+        margin-top: 10%;
     }
     section {
-        width: 96%;
+        width: 1%;
         margin-top: 7%;
         margin-left: 1%;
     }
@@ -453,6 +452,15 @@
     .section4 {
         width: 96%;
         margin-left: 1%;
+    }
+}
+
+@media only screen and (max-width:1600px) {
+    .table_home_page_style {
+        width: 15%;
+        float: none;
+        margin-left: 83%;
+        margin-top: 29px;
     }
 }
 
